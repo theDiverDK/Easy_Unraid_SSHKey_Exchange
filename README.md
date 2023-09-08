@@ -1,7 +1,6 @@
-#CHANGES
+# CHANGES
 
-#Changed the amazing Unraid script to now work on OSX
-x
+# Changed the amazing Unraid script to now work on OSX
 
 # Unraid SSH Key Exchange Script
 
