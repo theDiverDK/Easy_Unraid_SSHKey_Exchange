@@ -2,6 +2,14 @@
 
 # Changed the amazing Unraid script to now work on OSX
 
+
+
+
+
+
+
+
+
 # Unraid SSH Key Exchange Script
 
 This script is designed to streamline the process of exchanging SSH keys between an Unraid server and other computers or servers. It is particularly helpful for users new to Unraid or command line interfaces, making the process simpler and more intuitive.
